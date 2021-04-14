@@ -1,0 +1,14 @@
+1,A.24,Denegación de servicio,5,12.3.1,Copias de seguridad de la información,6
+1,A.24,Denegación de servicio,5,12.1.3,Gestión de capacidades,6
+2,A.25,Robo,3,11.2.6,Seguridad de los equipos fuera de las instalaciones,24
+3,A.30,Ingeniería social,4,11.1.2,Controles físicos de entrada,8
+4,E.3,Errores de monitorización,3,9.4.1,Restricción del acceso a la información,40
+4,E.3,Errores de monitorización,3,9.2.4,Gestión de la información secreta de autentificación,40
+5,I.5,Avería del origen físico o lógico,4,11.2.4,Mantenimiento de los equipos,24
+6,E.24,Caída del sistema por agotamiento de recursos,5,12.1.3,Gestión de capacidades,8
+7,A.6,Abuso de privilegios de acceso,4,9.4.1,Restricción del acceso a la información,24
+8,E.4,Errores de configuración,2,12.4.4,Sincronización del reloj,2
+9,E.21,Errores de mantenimiento,3,12.3.1,Copias de seguridad de la información,6
+10,I.7,Condiciones inadecuadas de temperatura o humedad,2,11.2.2,Instalaciones de suministro,72
+11,A.30,Ingeniería social,5,9.2.4,Gestión de la información secreta de autentificación,16
+12,I.8,Fallo de los servicios de comunicaciones,2,13.1.1,Controles de red,8
