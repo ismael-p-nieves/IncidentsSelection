@@ -1,0 +1,125 @@
+1,[A.14],Interceptación de información (escucha),2,12.1.3,Gestión de capacidades,45
+2,[A.30],Ingeniería social (picaresca),1,12.1.4,Separación de los recursos de desarrollo prueba y operación,9
+3,[E.7],Deficiencias en la organización,2,11.2.4,Mantenimiento de los equipos,0
+4,[E.21],Errores de mantenimiento / actualización de programas (software),1,9.2.5,Revisión de los derechos de acceso de usuario,38
+4,[E.21],Errores de mantenimiento / actualización de programas (software),1,14.2.9,Pruebas de aceptación de sistemas,38
+5,[E.25],Pérdida de equipos,4,13.1.3,Segregación de las redes,33
+5,[E.25],Pérdida de equipos,4,15.2.1,Control y revisión de la provisión de servicios del proveedor,33
+6,[A.27],Ocupación enemiga,2,9.4.2,Procedimientos seguros de inicio de sesión,2
+7,[A.12],Análisis de tráfico,3,11.1.2,Controles físicos de entrada,39
+8,[E.19],Fugas de información,4,7.1.3,Términos y condiciones de contratación,4
+9,[E.24],Caída del sistema por agotamiento de recursos,4,15.1.1,Política de seguridad de la información en las relaciones con los proveedores,1
+10,[E.20],Vulnerabilidades de los programas (software),3,18.2.3,Comprobación del cumplimiento técnico,41
+11,[A.15],Modificación deliberada de la información,3,11.1.2,Controles físicos de entrada,5
+11,[A.15],Modificación deliberada de la información,3,6.1.4,Contacto con grupos de especial interés,5
+12,[A.6],Abuso de privilegios de acceso,3,17.2.1,Disponibilidad de los recursos de tratamiento de la información,44
+13,[E.23],Errores de mantenimiento / actualización de equipos (hardware),3,18.1.2,Derechos de propiedad intelectual (IPR),32
+14,[E.8],Difusión de software dañino,1,18.1.2,Derechos de propiedad intelectual (IPR),23
+15,[A.18],Destrucción de información,4,6.1.5,Seguridad de la información en la gestión de proyectos,7
+15,[A.18],Destrucción de información,4,12.2.1,Controles contra el código malicioso,7
+16,[A.4],Manipulación de la configuración,3,13.2.3,Mensajería electrónica,26
+17,[E.3],Errores de monitorización (log),2,8.1.2,Propiedad de los activos,25
+18,[E.24],Caída del sistema por agotamiento de recursos,4,8.3.3,Soportes físicos en tránsito,39
+18,[E.24],Caída del sistema por agotamiento de recursos,4,9.4.1,Restricción del acceso a la información,39
+19,[E.25],Pérdida de equipos,3,11.2.3,Seguridad del cableado,44
+20,[A.10],Alteración de secuencia,3,13.2.4,Acuerdos de confidencialidad o no revelación,17
+21,[A.10],Alteración de secuencia,0,7.1.3,Términos y condiciones de contratación,14
+22,[E.25],Pérdida de equipos,0,8.1.1,Inventario de activos,6
+23,[A.6],Abuso de privilegios de acceso,2,8.2.1,Clasificación de la información,1
+23,[A.6],Abuso de privilegios de acceso,2,14.1.2,Asegurar los servicios de aplicaciones en redes públicas,1
+24,[E.21],Errores de mantenimiento / actualización de programas (software),1,13.2.2,Acuerdos de intercambio de información,25
+24,[E.21],Errores de mantenimiento / actualización de programas (software),1,5.1.2,Revisión de la política de seguridad de la información,25
+25,[A.26],Ataque destructivo,2,16.1.1,Responsabilidades y procedimientos,32
+25,[A.26],Ataque destructivo,2,13.1.1,Controles de red,32
+26,[A.5],Suplantación de la identidad del usuario,0,12.6.2,Restricción en la instalación de software,23
+27,[A.29],Extorsión,0,15.2.2,Gestión de cambios en la provisión del servicio del proveedor,46
+28,[E.25],Pérdida de equipos,3,7.2.3,Proceso disciplinario,36
+29,[E.24],Caída del sistema por agotamiento de recursos,4,6.1.5,Seguridad de la información en la gestión de proyectos,42
+30,[E.10],Errores de secuencia,4,17.1.3,Verificación revisión y evaluación de la continuidad de la seguridad de la información,23
+30,[E.10],Errores de secuencia,4,8.1.1,Inventario de activos,23
+31,[E.10],Errores de secuencia,4,15.1.2,Tratamiento de la seguridad en contratos con terceros,25
+32,[A.14],Interceptación de información (escucha),0,14.2.2,Procedimientos de control de cambios en sistemas,8
+33,[A.7],Uso no previsto,3,14.2.3,Revisión técnica de las aplicaciones tras efectuar cambios en el sistema operativo,7
+34,[A.19],Divulgación de información,2,6.2.2,Teletrabajo,29
+35,[A.26],Ataque destructivo,3,6.1.5,Seguridad de la información en la gestión de proyectos,18
+36,[A.30],Ingeniería social (picaresca),4,12.6.1,Gestión de las vulnerabilidades técnicas,32
+36,[A.30],Ingeniería social (picaresca),4,12.6.2,Restricción en la instalación de software,32
+37,[A.12],Análisis de tráfico,3,14.2.7,Externalización del desarrollo de software,44
+38,[A.29],Extorsión,4,11.2.1,Emplazamiento y protección de equipos,15
+39,[A.30],Ingeniería social (picaresca),1,9.2.2,Provisión de acceso de usuario,22
+40,[E.24],Caída del sistema por agotamiento de recursos,3,9.2.1,Registro y baja de usuario,7
+41,[E.24],Caída del sistema por agotamiento de recursos,3,9.1.1,Política de control de acceso,39
+42,[E.21],Errores de mantenimiento / actualización de programas (software),1,14.1.2,Asegurar los servicios de aplicaciones en redes públicas,23
+43,[E.19],Fugas de información,3,14.2.7,Externalización del desarrollo de software,35
+44,[A.30],Ingeniería social (picaresca),2,13.1.2,Seguridad de los servicios de red,4
+44,[A.30],Ingeniería social (picaresca),2,12.4.1,Registro de eventos,4
+45,[A.24],Denegación de servicio,0,12.2.2,Controles contra el código descargado en el cliente,6
+45,[A.24],Denegación de servicio,0,14.3.1,Protección de los datos de prueba,6
+46,[I.10],Degradación de los soportes de almacenamiento de la información,1,12.6.1,Gestión de las vulnerabilidades técnicas,20
+47,[E.28],Indisponibilidad del personal,1,17.1.2,Implementar la continuidad de la seguridad de la información,38
+47,[E.28],Indisponibilidad del personal,1,15.1.3,Cadena de suministro de tecnología de la información y de las comunicaciones,38
+48,[A.3],Manipulación de los registros de actividad (log),2,12.5.1,Instalación del software en explotación,31
+49,[A.28],Indisponibilidad del personal,3,12.5.1,Instalación del software en explotación,8
+50,[E.10],Errores de secuencia,1,12.1.2,Gestión de cambios,40
+51,[A.24],Denegación de servicio,3,9.2.3,Gestión de privilegios de acceso,45
+52,[E.21],Errores de mantenimiento / actualización de programas (software),2,9.2.3,Gestión de privilegios de acceso,28
+52,[E.21],Errores de mantenimiento / actualización de programas (software),2,13.1.1,Controles de red,28
+53,[A.11],Acceso no autorizado,2,11.2.3,Seguridad del cableado,44
+54,[A.7],Uso no previsto,4,16.1.5,Evaluación y decisión sobre los eventos de seguridad de información,36
+55,[A.8],Difusión de software dañino,0,9.4.4,Uso de utilidades con privilegios del sistema,38
+56,[A.14],Interceptación de información (escucha),2,12.5.1,Instalación del software en explotación,47
+57,[E.8],Difusión de software dañino,1,16.1.1,Responsabilidades y procedimientos,46
+57,[E.8],Difusión de software dañino,1,9.4.1,Restricción del acceso a la información,46
+58,[E.28],Indisponibilidad del personal,0,11.2.7,Reutilización o eliminación segura de equipos,47
+59,[A.13],Repudio,2,6.1.4,Contacto con grupos de especial interés,28
+59,[A.13],Repudio,2,8.1.4,Devolución de activos,28
+60,[E.18],Destrucción de información,0,14.2.8,Pruebas funcionales de seguridad de sistemas,11
+61,[E.28],Indisponibilidad del personal,4,8.1.2,Propiedad de los activos,12
+62,[A.30],Ingeniería social (picaresca),3,16.1.2,Notificación de los eventos de seguridad de la información,36
+63,[E.19],Fugas de información,2,12.6.2,Restricción en la instalación de software,32
+63,[E.19],Fugas de información,2,12.1.2,Gestión de cambios,32
+64,[A.26],Ataque destructivo,0,7.1.3,Términos y condiciones de contratación,40
+65,[A.13],Repudio,1,12.2.2,Controles contra el código descargado en el cliente,10
+66,[E.9],Errores de [re-]encaminamiento,3,7.1.2,Términos y condiciones del empleo,8
+67,[A.25],Robo,0,9.2.6,Retirada o reasignación de los derechos de acceso,13
+68,[E.23],Errores de mantenimiento / actualización de equipos (hardware),4,18.1.3,Protección de los registros de la organización,12
+69,[E.24],Caída del sistema por agotamiento de recursos,1,12.4.2,Protección de la información de registros,37
+70,[I.10],Degradación de los soportes de almacenamiento de la información,3,8.1.3,Uso aceptable de los activos,21
+71,[E.28],Indisponibilidad del personal,3,11.2.1,Emplazamiento y protección de equipos,43
+72,[E.2],Errores del administrador,3,12.4.4,Sincronización del reloj,29
+73,[A.3],Manipulación de los registros de actividad (log),4,12.7.1,Controles de auditoría de sistemas de información,35
+74,[E.9],Errores de [re-]encaminamiento,2,9.2.4,Gestión de la información secreta de autenticación de los usuarios,15
+75,[A.9],[Re-]encaminamiento de mensajes,0,12.1.2,Gestión de cambios,35
+75,[A.9],[Re-]encaminamiento de mensajes,0,8.2.2,Etiquetado de la información,35
+76,[E.21],Errores de mantenimiento / actualización de programas (software),3,18.1.5,Regulación de los controles criptográficos,1
+77,[E.3],Errores de monitorización (log),3,16.1.3,Notificación de puntos débiles de la seguridad,13
+78,[A.13],Repudio,2,9.2.2,Provisión de acceso de usuario,43
+78,[A.13],Repudio,2,11.2.7,Reutilización o eliminación segura de equipos,43
+79,[A.6],Abuso de privilegios de acceso,2,11.2.9,Política de puesto de trabajo despejado y pantalla limpia,27
+80,[E.8],Difusión de software dañino,2,11.1.3,Seguridad de oficinas despachos y recursos,11
+81,[A.24],Denegación de servicio,1,8.3.1,Gestión de soportes extraíbles,5
+82,[E.21],Errores de mantenimiento / actualización de programas (software),3,9.2.5,Revisión de los derechos de acceso de usuario,46
+83,[A.5],Suplantación de la identidad del usuario,3,9.4.5,Control de acceso al código fuente de los programas,21
+84,[A.15],Modificación deliberada de la información,0,14.1.1,Análisis y especificación de los requisitos de seguridad,38
+84,[A.15],Modificación deliberada de la información,0,14.2.4,Restricciones a los cambios en los paquetes de software,38
+85,[A.3],Manipulación de los registros de actividad (log),4,7.1.1,Investigación de antecedentes,13
+85,[A.3],Manipulación de los registros de actividad (log),4,8.1.4,Devolución de activos,13
+86,[E.20],Vulnerabilidades de los programas (software),4,17.1.2,Implementar la continuidad de la seguridad de la información,43
+87,[A.23],Manipulación de los equipos,4,14.1.2,Asegurar los servicios de aplicaciones en redes públicas,23
+87,[A.23],Manipulación de los equipos,4,12.2.1,Controles contra el código malicioso,23
+88,[A.10],Alteración de secuencia,2,9.4.4,Uso de utilidades con privilegios del sistema,10
+89,[A.19],Divulgación de información,1,7.1.1,Investigación de antecedentes,33
+90,[A.14],Interceptación de información (escucha),2,17.1.2,Implementar la continuidad de la seguridad de la información,35
+91,[E.7],Deficiencias en la organización,2,11.1.6,Áreas de carga y descarga,26
+92,[A.27],Ocupación enemiga,3,8.3.2,Eliminación de soportes,8
+93,[A.27],Ocupación enemiga,1,6.1.5,Seguridad de la información en la gestión de proyectos,2
+94,[E.18],Destrucción de información,1,6.2.1,Política de dispositivos móviles,2
+95,[E.23],Errores de mantenimiento / actualización de equipos (hardware),1,18.1.1,Identificación de la legislación aplicable y de los requisitos contractuales,7
+96,[E.8],Difusión de software dañino,1,7.1.2,Términos y condiciones del empleo,30
+96,[E.8],Difusión de software dañino,1,9.3.1,Uso de la información secreta de autenticación,30
+97,[E.25],Pérdida de equipos,1,18.1.4,Protección y privacidad de la información de carácter personal,14
+98,[E.20],Vulnerabilidades de los programas (software),3,12.6.1,Gestión de las vulnerabilidades técnicas,30
+98,[E.20],Vulnerabilidades de los programas (software),3,12.4.4,Sincronización del reloj,30
+99,[A.3],Manipulación de los registros de actividad (log),4,7.1.1,Investigación de antecedentes,2
+99,[A.3],Manipulación de los registros de actividad (log),4,12.4.3,Registros de administración y operación,2
+100,[A.6],Abuso de privilegios de acceso,0,11.1.2,Controles físicos de entrada,10
