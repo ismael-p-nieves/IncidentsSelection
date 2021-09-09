@@ -1,0 +1,18 @@
+1,[A.8],Difusión de software dañino,2,9.5.3,Gestión de privilegios de acceso,2
+2,[A.12],Análisis de tráfico,5,4.5.6,Responsabilidades y procedimientos,6
+3,[A.25],Robo,9,2.1.3,Asegurar los servicios de aplicaciones en redes públicas,11
+4,[A.5],Suplantación de la identidad del usuario,7,1.2.3,Inventario de activos,8
+4,[A.7],Suplantación de la identidad del usuario,7,4.5.6,Responsabilidades y procedimientos,8
+5,[A.23],Manipulación de los equipos,5,9.7.8,Control de acceso al código fuente de los programas,6
+6,[A.9],[Re-]encaminamiento de mensajes,4,1.6.4,Manipulado de la información,4
+6,[A.9],[Re-]encaminamiento de mensajes,4,9.5.3,Revisión técnica de las aplicaciones tras efectuar cambios en el sistema operativo,4
+7,[A.19],Divulgación de información,2,5.6.4,Evaluación y decisión sobre los eventos de seguridad de información,2
+8,[A.7],Uso no previsto,6,4.7.9,Mensajería electrónica,7
+9,[A.22],Manipulación de programas,4,1.6.4,Aprendizaje de los incidentes de seguridad de la información,4
+10,[E.7],Deficiencias en la organización,7,4.9.7,Responsabilidades de gestión,8
+11,[A.28],Indisponibilidad del personal,5,1.2.8,Seguridad de los servicios de red,6
+12,[A.15],Modificación deliberada de la información,3,6.4.5,Cumplimiento de las políticas y normas de seguridad,3
+12,[A.15],Modificación deliberada de la información,3,4.7.9,Mensajería electrónica,3
+13,[A.10],Alteración de secuencia,5,9.7.4,Uso de utilidades con privilegios del sistema,6
+14,[E.28],Indisponibilidad del personal,4,4.9.2,Pruebas de aceptación de sistemas,4
+15,[A.24],Denegación de servicio,8,7.8.2,Uso de la información secreta de autenticación,10

@@ -1,0 +1,12 @@
+1,[A.8],Difusión de software dañino,5,9.1.2,Gestión de privilegios de acceso,6
+2,[A.12],Análisis de tráfico,3,10.5.4,Responsabilidades y procedimientos,3
+3,[A.25],Robo,4,9.4.3,Asegurar los servicios de aplicaciones en redes públicas,4
+3,[A.5],Robo,4,9.5.4,Inventario de activos,4
+4,[A.7],Uso no previsto,2,9.1.2,Protección de la información de registros,2
+5,[A.23],Manipulación de los equipos,5,5.6.1,Control de acceso al código fuente de los programas,6
+6,[A.9],[Re-]encaminamiento de mensajes,4,9.1.2,Manipulado de la información,4
+7,[A.9],Uso no previsto,9,4.6.5,Revisión técnica de las aplicaciones tras efectuar cambios en el sistema operativo,11
+8,[A.19],Divulgación de información,8,5.6.1,Evaluación y decisión sobre los eventos de seguridad de información,9
+8,[A.7],Divulgación de información,8,9.4.3,Mensajería electrónica,9
+9,[A.22],Manipulación de programas,1,6.4.5,Aprendizaje de los incidentes de seguridad de la información,2
+10,[E.7],Deficiencias en la organización,5,3.7.8,Responsabilidades de gestión,6

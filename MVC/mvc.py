@@ -68,15 +68,15 @@ def createBQM(incidencias, controles):
             Q.linear[key] -= penalizacion
             J[(i, i)] -= int(penalizacion)
 
-    for i in range(len(idIncidencias)):
-        for j in range(i + 1, len(idIncidencias)):
-            incidencia1 = list(idIncidencias)[i]
-            incidencia2 = list(idIncidencias)[j]
+        for i in range(len(idIncidencias)):
+            for j in range(i + 1, len(idIncidencias)):
+                incidencia1 = list(idIncidencias)[i]
+                incidencia2 = list(idIncidencias)[j]
                 
-            key = (str(incidencia1), str(incidencia2))
-                
-            Q.quadratic[key] = 0
-            J[(incidencia1, incidencia2)] = 0
+                key = (str(incidencia1), str(incidencia2))
+                    
+                Q.quadratic[key] = 0
+                J[(incidencia1, incidencia2)] = 0
 
     for k in idControles:
         cIncidencias = controles[k]
