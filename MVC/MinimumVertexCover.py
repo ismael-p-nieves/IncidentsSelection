@@ -243,15 +243,13 @@ if __name__ == '__main__':
 
     path = sys.argv[1] if len(sys.argv) > 1 else "/home/ismael/Escritorio/Cuantica/MVC/Eventos50.csv"
 
-    #if sys.argv[2].lower() != 'false' and str(sys.argv[2]).lower() != 'true':
-    #    print('Se ha introducido el modo del sampler incorrectamenete.\nRecuerde que para el sampler offline se utiliza "false" y para el online se utiliza "true".')
-    #    sys.exit()
-    #if sys.argv[2].lower() == 'true':
-    #    online = True
-    #else:
-    #    online = False
-
-    online = False
+    if sys.argv[2].lower() != 'false' and str(sys.argv[2]).lower() != 'true':
+        print('Se ha introducido el modo del sampler incorrectamenete.\nRecuerde que para el sampler offline se utiliza "false" y para el online se utiliza "true".')
+        sys.exit()
+    if sys.argv[2].lower() == 'true':
+        online = True
+    else:
+        online = False
 
     incidencias, controles, dataframe = createList(path)
 
